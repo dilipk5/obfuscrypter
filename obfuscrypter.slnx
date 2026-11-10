@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="obfuscrypter/obfuscrypter.vcxproj" Id="dd1e96e5-af15-4527-b40d-85154926ddea" />
+</Solution>
